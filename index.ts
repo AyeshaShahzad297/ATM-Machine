@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let myBalance: number = 10000;
 let myPin: number = 1234;
