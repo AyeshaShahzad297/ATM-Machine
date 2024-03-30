@@ -1,6 +1,6 @@
 {
   "name": "@ayeshashahzad/atm-machine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command line based ATM machine made with TypeScript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
